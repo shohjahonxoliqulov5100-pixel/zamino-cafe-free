@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zamino Cafe Admin</title>
+</head>
+<body>
+    <h1>Zamino Cafe - Admin Panel</h1>
+    <p>Admin paneli fayli muvaffaqiyatli yuklandi.</p>
+</body>
+</html>
